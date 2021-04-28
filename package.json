@@ -6,9 +6,18 @@
   "scripts": {
     "start": "electron ."
   },
-  "author": "Kirk_KD",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirk-KD/discord-grinder.git"
+  },
+  "author": "Kirk-KD",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kirk-KD/discord-grinder/issues"
+  },
+  "homepage": "https://github.com/Kirk-KD/discord-grinder#readme",
   "devDependencies": {
-    "electron": "^12.0.5"
+    "electron": "^12.0.5",
+    "robotjs": "^0.6.0"
   }
 }
